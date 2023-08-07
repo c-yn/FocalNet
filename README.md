@@ -43,6 +43,7 @@ cd ..
 ||DPDD<sub>*dual*</sub>|26.34|0.817|[gdrive](https://drive.google.com/file/d/10EvKjAtbVdwoPCPALQNnEKfy3ele79SK/view?usp=sharing),[Baidu](https://pan.baidu.com/s/1x6ngjYKtktg5jHSqF-4Y3Q?pwd=zc65)| -->
 
 ## Results
+The resulting images can be downloaded [here](https://drive.google.com/drive/folders/1GWgeqDuqJmR_3wy985l6Jl_ExtC3uFI_?usp=sharing).
 |Task|Dataset|PSNR|SSIM|
 |----|------|-----|----|
 |**Image Dehazing**|ITS|40.82|0.96|
@@ -54,7 +55,7 @@ cd ..
 |**Image Desnowing**|CSD|37.18|0.99|
 ||SRRS|31.34|0.98|
 ||Snow100K|33.53|0.95|
-|**Defocus Deblurring|26.18|0.808|
+|**Defocus Deblurring||DPDD26.18|0.808|
 
 ## Citation
 If you find this project useful for your research, please consider citing:
