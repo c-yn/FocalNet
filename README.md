@@ -38,6 +38,8 @@ The resulting images can be downloaded [here](https://drive.google.com/drive/fol
 |**Image Desnowing**|CSD|37.18|0.99|
 ||SRRS|31.34|0.98|
 ||Snow100K|33.53|0.95|
+|**Image Motion Deblurring**|GoPro|33.10|0.962|
+
 
 ## Citation
 If you find this project useful for your research, please consider citing:
