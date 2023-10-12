@@ -51,4 +51,4 @@ If you find this project useful for your research, please consider citing:
 }
 ~~~
 ## Contact
-Should you have any question, please contact [Yuning Cui](yuning.cui@tum.de).
+Should you have any question, please contact Yuning Cui.
