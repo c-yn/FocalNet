@@ -32,18 +32,18 @@ python main.py --data_dir your_path/reside-outdoor --test_model path_to_ots_mode
 
 For training and testing, your directory structure should look like this
 
-`Your path` 
- `├──reside-indoor` 
-     `├──train`  
-          `├──gt`  
+`Your path` <br/>
+`├──reside-indoor` <br/>
+     `├──train`  <br/>
+          `├──gt`  <br/>
           `└──hazy`  
-     `└──test`  
-          `├──gt`  
+     `└──test`  <br/>
+          `├──gt`  <br/>
           `└──hazy`  
- `└──reside-outdoor` 
-     `├──train`  
-          `├──gt`  
+`└──reside-outdoor` <br/>
+     `├──train`  <br/>
+          `├──gt`  <br/>
           `└──hazy`  
-     `└──test`  
-          `├──gt`  
+     `└──test`  <br/>
+          `├──gt`  <br/>
           `└──hazy` 
