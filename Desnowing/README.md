@@ -18,25 +18,25 @@ python main.py --data_dir your_path/CSD
 
 For training and testing, your directory structure should look like this
 
-`Your path` 
- `├──CSD` 
-     `├──train2500`  
-          `├──Gt`  
+`Your path` <br/>
+ `├──CSD` <br/>
+     `├──train2500`  <br/>
+          `├──Gt`  <br/>
           `└──Snow`  
-     `└──test2000`  
-          `├──Gt`  
+     `└──test2000`  <br/>
+          `├──Gt`  <br/>
           `└──Snow`  
- `├──SRRS` 
-     `├──train2500`  
-          `├──Gt`  
+ `├──SRRS` <br/>
+     `├──train2500`  <br/>
+          `├──Gt`  <br/>
           `└──Snow`  
-     `└──test2000`  
-          `├──Gt`  
+     `└──test2000`  <br/>
+          `├──Gt`  <br/>
           `└──Snow`  
- `└──Snow100K` 
-     `├──train2500`  
-          `├──Gt`  
+ `└──Snow100K` <br/>
+     `├──train2500`  <br/>
+          `├──Gt`  <br/>
           `└──Snow`  
-     `└──test2000`  
-          `├──Gt`  
+     `└──test2000`  <br/>
+          `├──Gt`  <br/>
           `└──Snow`  
