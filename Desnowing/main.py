@@ -63,7 +63,7 @@ if __name__ == '__main__':
         os.makedirs(args.model_save_dir)
     command = 'cp ' + 'models/layers.py ' + args.model_save_dir
     os.system(command)
-    command = 'cp ' + 'models/MIMOUNet.py ' + args.model_save_dir
+    command = 'cp ' + 'models/FocalNet.py ' + args.model_save_dir
     os.system(command)
     command = 'cp ' + 'train.py ' + args.model_save_dir
     os.system(command)
