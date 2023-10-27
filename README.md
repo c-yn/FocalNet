@@ -27,7 +27,7 @@ cd ..
 The resulting images can be downloaded [here](https://drive.google.com/drive/folders/1GWgeqDuqJmR_3wy985l6Jl_ExtC3uFI_?usp=sharing).
 |Task|Dataset|PSNR|SSIM|
 |----|------|-----|----|
-|**Image Dehazing**|ITS|40.82|0.96|
+|**Image Dehazing**|ITS|40.82|0.996|
 ||OTS|37.71|0.995|
 ||Dense-Haze|17.07|0.63|
 ||NH-HAZE|20.43|0.79|
